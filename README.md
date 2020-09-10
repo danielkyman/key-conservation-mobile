@@ -31,8 +31,7 @@ Alston Garrett - [GitHub](https://github.com/Neytoro) | [LinkedIn](https://www.l
 
 Zahid Khawaja - [GitHub](https://github.com/zahidkhawaja) | [LinkedIn](https://www.linkedin.com/in/zahidkhawaja/)
 
-Daniel Kyman - [GitHub](https://github.com/danielkyman) | [LinkedIn]()
-https://www.linkedin.com/in/daniel-kyman-6816b3b2/)
+Daniel Kyman - [GitHub](https://github.com/danielkyman) | [LinkedIn](www.linkedin.com/in/kyman)
 
 ## Previous Labs Teams Who Contributed To This Project
 
